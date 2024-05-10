@@ -1,5 +1,5 @@
 # Instructions 
-.ipynb files can be run as Google Colaboratory Notebooks.
+.ipynb files are intended to be run as Google Colaboratory Notebooks.
 
 # Order 
 1. What_Is_HYDRAFloods
